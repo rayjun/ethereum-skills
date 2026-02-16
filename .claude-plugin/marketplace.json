@@ -1,0 +1,19 @@
+{
+  "name": "ethereum-skills",
+  "owner": {
+    "name": "Ray",
+    "email": "rayjun0412@gmail.com"
+  },
+  "metadata": {
+    "description": "ethereum skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "id": "ethereum-proposal-researcher",
+      "name": "Ethereum Proposal Researcher",
+      "description": "Research and analyze Ethereum proposals.",
+      "path": "./skills/ethereum-proposal-researcher"
+    }
+  ]
+}
