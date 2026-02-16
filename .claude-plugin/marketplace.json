@@ -10,8 +10,7 @@
   },
   "plugins": [
     {
-      "id": "ethereum-proposal-researcher",
-      "name": "Ethereum Proposal Researcher",
+      "name": "ethereum-proposal-researcher",
       "description": "Research and analyze Ethereum proposals.",
       "path": "./skills/ethereum-proposal-researcher"
     }
