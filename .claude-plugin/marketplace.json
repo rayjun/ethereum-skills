@@ -15,7 +15,12 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/ethereum-proposal-researcher"
+        "./skills/ethereum-proposal-researcher",
+        "./skills/ethereum-chain-explorer",
+        "./skills/ethereum-defi-analyzer",
+        "./skills/ethereum-security-auditor",
+        "./skills/ethereum-transaction-inspector",
+        "./skills/ethereum-contract-analyzer"
       ]
     }
   ]
