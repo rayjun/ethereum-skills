@@ -72,3 +72,7 @@ ethereum-skills/
 
 ## 贡献与反馈
 欢迎通过 Issue 或 Pull Request 提交新的技能或改进现有功能。
+
+## 开源协议 (License)
+本项目采用 [MIT License](LICENSE) 开源协议。
+
